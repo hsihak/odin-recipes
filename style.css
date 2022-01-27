@@ -4,8 +4,10 @@
 }
 
 body {
-    font-family: monospace;
-    background-color: lightgoldenrodyellow;
+    font-family: Poppins;
+    /* background-color: lightgoldenrodyellow; */
+    background-image: url(/images/main-page-background.jpg);
+    background-size: cover;
 }
 
 h1 {
